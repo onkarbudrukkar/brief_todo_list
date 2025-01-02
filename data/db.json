@@ -1,0 +1,128 @@
+{
+  "user_1": {
+    "Personal": [
+      {
+        "id": 4,
+        "title": "Fix Bugs",
+        "description": "Debug and fix issues in the Task App.",
+        "priority": "medium",
+        "status": "Completed"
+      },
+      {
+        "id": 1,
+        "title": "Learn React",
+        "description": "Understand the basics of React.",
+        "priority": "medium",
+        "status": "In progress"
+      },
+      {
+        "id": 3,
+        "title": "Complete Documentation",
+        "description": "Document the Task Management App.",
+        "priority": "high",
+        "status": "In progress"
+      }
+    ],
+    "Work": [
+      {
+        "id": 2,
+        "title": "Prepare Presentation",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "priority": "medium",
+        "status": "Completed"
+      },
+      {
+        "id": 3,
+        "title": "Review Code",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "priority": "low",
+        "status": "Completed"
+      },
+      {
+        "id": 4,
+        "title": "Plan Sprint",
+        "description": "Define tasks and goals for the next sprint.",
+        "priority": "high",
+        "status": "Completed"
+      }
+    ],
+    "Exam": [
+      {
+        "id": 2,
+        "title": "Prepare Presentation",
+        "description": "Work on the upcoming client presentation.",
+        "priority": "medium",
+        "status": "Completed"
+      },
+      {
+        "id": 3,
+        "title": "Review Code",
+        "description": "Review pull requests from team members.",
+        "priority": "low",
+        "status": "Completed"
+      }
+    ],
+    "Sports": [
+      {
+        "id": 1,
+        "title": "Play Football",
+        "description": "askdjchkasdhckjsdchksdjchksdjch",
+        "priority": "low",
+        "status": "Completed"
+      }
+    ],
+    "Wedding": [
+      {
+        "id": 2,
+        "title": "Buy Rings",
+        "description": "Need to buy diamond rings",
+        "priority": "high",
+        "status": "Pending"
+      },
+      {
+        "id": 1,
+        "title": "Team Meeting",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "priority": "low",
+        "status": "Pending"
+      }
+    ],
+    "Company": [
+      {
+        "id": 1,
+        "title": "Team Meeting",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "priority": "high",
+        "status": "Pending"
+      },
+      {
+        "id": 2,
+        "title": "Prepare Presentation",
+        "description": "Work on the upcoming client presentation.",
+        "priority": "medium",
+        "status": "Completed"
+      },
+      {
+        "id": 3,
+        "title": "Review Code",
+        "description": "Review pull requests from team members.",
+        "priority": "low",
+        "status": "Completed"
+      },
+      {
+        "id": 4,
+        "title": "Plan Sprint",
+        "description": "Define tasks and goals for the next sprint.",
+        "priority": "high",
+        "status": "Completed"
+      },
+      {
+        "id": 5,
+        "title": "Test Cases",
+        "description": "Need to complete the assign test cases",
+        "priority": "high",
+        "status": "In progress"
+      }
+    ]
+  }
+}
